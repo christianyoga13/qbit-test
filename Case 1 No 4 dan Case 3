@@ -1,0 +1,5 @@
+Case 1 No. 4
+
+Terdapat beberapa hal yg ga tepat dalam data buah tersebut yaitu ada duplikasi ID (fruitId: 5) yang muncul sebanyak 3 kali untuk buah yang berbeda (Jeruk Bali, KURMA, dan Salak) dimana seharusnya ID harus unik, serta terdapat inkonsistensi penulisan nama buah seperti "Apel/apel" dan "Kurma/KURMA" yang bisa menyebabkan masalah dalam pengolahan dan identifikasi data.
+
+LInk Github Case 3: https://github.com/christianyoga13/UMKM-Web
